@@ -1,0 +1,28 @@
+First parse txt
+create matrix
+connect nodes
+
+create Priority queue
+Use dijkstra
+
+[0][0...79]
+
+[0..79][0]
+
+
+[79][0...79]
+
+
+[0...79][79]
+
+dijsktra pseudocode
+
+push head
+get children
+pop smallest
+add children
+continue adding children
+
+add head
+
+while queue
